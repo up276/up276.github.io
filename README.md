@@ -1,2 +1,2 @@
 # up276.github.io
-Urjit Patel Github website
+Please go to http://www.cims.nyu.edu/~up276/info.html
